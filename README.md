@@ -22,3 +22,8 @@ Cybersecurity professional with hands-on experience investigating phishing campa
 - CompTIA Security+
 - CompTIA Network+
 - Google Cybersecurity Certificate 
+
+## Current Focus
+- Advancing detection engineering skills
+- Deepening ransomware intrusion analysis
+- Preparing for SOC Analyst I role
