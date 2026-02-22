@@ -1,16 +1,24 @@
-## Hi there 👋
+# Raymond Yubei
+SOC Analyst | Incident Response | Threat Detection
 
-<!--
-**meyray990-sketch/meyray990-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Cybersecurity professional with hands-on experience investigating phishing campaigns, ransomware intrusions, and multi-stage endpoint compromises. Experienced in SIEM monitoring, log analysis, and MITRE ATT&CK mapping.
 
-Here are some ideas to get you started:
+## Core Skills
+- Incident Investigation
+- Phishing Analysis
+- Ransomware Detection
+- SIEM (Splunk, Defender)
+- Log Correlation
+- Threat Hunting Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+- Incident Response Casebook
+- SOC Detection Labs
+- Splunk & SIEM Notes
+
+## Certifications
+- CompTIA CySA+
+- CompTIA Security+
+- CompTIA Network+
+- Google Cybersecurity Certificate 
