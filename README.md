@@ -1,8 +1,11 @@
 # Raymond Yubei
-SOC Analyst | Incident Response | Threat Detection
+ SOC Analyst | Splunk SIEM | Threat Detection | Incident Response | MITRE ATT&CK | CySA+
 
 ## About Me
-Cybersecurity professional with hands-on experience investigating phishing campaigns, ransomware intrusions, and multi-stage endpoint compromises. Experienced in SIEM monitoring, log analysis, and MITRE ATT&CK mapping.
+ Cybersecurity professional focused on Security Operations (SOC), threat detection, and incident response.
+Hands-on experience deploying Splunk SIEM, ingesting and analyzing Linux authentication logs, and building detection rules for brute-force attacks.
+Skilled in log correlation, alert triage, and MITRE ATT&CK mapping with practical experience across SIEM labs, ransomware investigations, and phishing analysis.
+Actively building real-world cybersecurity projects to simulate attack detection and response workflows.
 
 ## Core Skills
 - Incident Investigation
